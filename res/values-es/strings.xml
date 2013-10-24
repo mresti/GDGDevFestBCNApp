@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
-    <string name="app_name">GDG DevFest BCN</string>
+    <string name="app_name">GDG DevFest SUR</string>
     <string name="description_search">Buscar</string>
     <string name="description_map">Mapa</string>
     <string name="description_refresh">Refrescar</string>
@@ -82,11 +82,11 @@
     <string name="remove_from_schedule_desc">Eliminar de la agenda</string>
     <!-- Announcements -->
     <!-- Announcements -->
-    <string name="whats_on_countdown_title_0"><xliff:g id="remaining_time">%1$s</xliff:g>\n para el DevFest BCN</string>
+    <string name="whats_on_countdown_title_0"><xliff:g id="remaining_time">%1$s</xliff:g>\n para el DevFest Sur</string>
 
     <plurals name="whats_on_countdown_title">
-        <item quantity="one"><xliff:g id="number_of_days">%1$s</xliff:g> día, <xliff:g id="remaining_time">%2$s</xliff:g>\npara el  DevFest BCN</item>
-        <item quantity="other"><xliff:g id="number_of_days">%1$s</xliff:g> dias, <xliff:g id="remaining_time">%2$s</xliff:g>\npara el DevFest BCN</item>
+        <item quantity="one"><xliff:g id="number_of_days">%1$s</xliff:g> día, <xliff:g id="remaining_time">%2$s</xliff:g>\npara el  DevFest Sur</item>
+        <item quantity="other"><xliff:g id="number_of_days">%1$s</xliff:g> dias, <xliff:g id="remaining_time">%2$s</xliff:g>\npara el DevFest Sur</item>
     </plurals>
 
     <string name="whats_on_thank_you_short">¡Gracias!</string>
