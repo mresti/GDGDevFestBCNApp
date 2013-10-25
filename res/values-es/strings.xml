@@ -123,7 +123,7 @@
           Si no es así, sólo le mostraremos sesiones con streaming en vivo. Se puede cambiar esto en Configuración.]]>
     </string>
     <string name="description_sign_in_main">
-<![CDATA[ Bienvenido a la aplicación del GDG DevFest Barcelona, su compañero oficial para la conferencia Dev Fest que tiene lugar en Barcelona 11 de octubre 2013.]]>
+<![CDATA[ Bienvenido a la aplicación del GDG DevFest Sur, su compañero oficial para la conferencia Dev Fest que tiene lugar en Córdoba el 31 de octubre 2013. (Esta app es un fork de la creada por GDG DevFest Barcelona, gracias)]]>
     </string>
     <string name="empty_accounts"><![CDATA[ No hay cuentas Google disponibles. Añadir una cuenta para continuar.]]></string>
 
@@ -136,7 +136,7 @@
     <string name="taking_a_while">Esto va a tardar un poco ...</string>
     <string name="about_body">
 <![CDATA[
-        <b>DevFest BCN 2013</b><br>
+        <b>DevFest Sur 2013</b><br>
         Version %s<br><br>
     ]]>
     </string> <!-- suppress AndroidLintTypographyOther -->
