@@ -31,7 +31,7 @@ public class Config {
     public static final String CONFERENCE_IMAGE_PREFIX_URL = "https://developers.google.com";
 
     // Announcements
-    public static final String ANNOUNCEMENTS_PLUS_ID = "111395306401981598462";
+    public static final String ANNOUNCEMENTS_PLUS_ID = "104298429774470156908";
 
     // Static file host for the map data
     public static final String GET_MAP_URL = "http://2013.ioschedmap.appspot.com/map.json";

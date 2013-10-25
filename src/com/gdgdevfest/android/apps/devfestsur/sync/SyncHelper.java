@@ -126,6 +126,7 @@ public class SyncHelper {
         String str_tracks = null;
         String str_session_tracks = null;
         try {
+        	SimpleContent.clearCache();
 			str_speakers = SimpleContent.getUrlContent("http://sur.gdgdevfest.com/_ponentes.json", this.mContext);
 			str_sessions = SimpleContent.getUrlContent("http://sur.gdgdevfest.com/api/sessions.json", this.mContext);
 			str_tracks = SimpleContent.getUrlContent("http://sur.gdgdevfest.com/api/tracks.json", this.mContext);
@@ -210,9 +211,6 @@ public class SyncHelper {
             }
 
             batch = new ArrayList<ContentProviderOperation>();
-  
-     
-
         }
 
     public void addOrRemoveSessionFromSchedule(Context context, String sessionId,

@@ -88,10 +88,10 @@ public class MapFragment extends SupportMapFragment implements
         GoogleMap.OnCameraChangeListener,
         LoaderCallbacks<Cursor> {
 
-    private static final LatLng MOSCONE = new LatLng(41.3903447723375,2.11327667468117);
+    private static final LatLng MOSCONE = new LatLng(37.88474434096118,-4.78853702545166);
 
     // Initial camera position
-    private static final LatLng CAMERA_MOSCONE = new LatLng(41.3903447723375,2.11327667468117);
+    private static final LatLng CAMERA_MOSCONE = new LatLng(37.88474434096118,-4.78853702545166);
     private static final float CAMERA_ZOOM = 15.75f;
 
     private static final int NUM_FLOORS = 3; // number of floors
