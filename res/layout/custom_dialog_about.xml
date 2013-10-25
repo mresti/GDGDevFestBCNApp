@@ -52,35 +52,14 @@
             android:layout_height="wrap_content"
             android:gravity="center"
             android:orientation="horizontal" >
-
             <ImageView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:adjustViewBounds="true"
-                android:maxHeight="80dp"
-                android:maxWidth="80dp"
+                android:maxHeight="70dp"
+                android:maxWidth="424dp"
                 android:scaleType="centerCrop"
-                android:src="@drawable/gdgbcnlogosmall" >
-            </ImageView>
-
-            <ImageView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:adjustViewBounds="true"
-                android:maxHeight="80dp"
-                android:maxWidth="80dp"
-                android:scaleType="centerCrop"
-                android:src="@drawable/gdglleidalogosmall" >
-            </ImageView>
-
-            <ImageView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:adjustViewBounds="true"
-                android:maxHeight="80dp"
-                android:maxWidth="80dp"
-                android:scaleType="centerCrop"
-                android:src="@drawable/gdgtgnlogosmall" >
+                android:src="@drawable/gdgsur_cordoba" >
             </ImageView>
         </LinearLayout>
 
@@ -89,80 +68,52 @@
             android:layout_height="wrap_content"
             android:gravity="center"
             android:orientation="horizontal" >
-
             <ImageView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:adjustViewBounds="true"
-                android:maxHeight="80dp"
-                android:maxWidth="80dp"
+                android:maxHeight="70dp"
+                android:maxWidth="424dp"
                 android:padding="10dip"
                 android:scaleType="centerCrop"
-                android:src="@drawable/gdgvigologosmall" >
-            </ImageView>
-
-            <ImageView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:adjustViewBounds="true"
-                android:maxHeight="90dp"
-                android:maxWidth="90dp"
-                android:padding="10dip"
-                android:scaleType="centerCrop"
-                android:src="@drawable/gdgvlclogosmall" >
-            </ImageView>
-
-            <ImageView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:adjustViewBounds="true"
-                android:maxHeight="90dp"
-                android:maxWidth="90dp"
-                android:padding="10dip"
-                android:scaleType="centerCrop"
-                android:src="@drawable/gdgmallorcalogsmall" >
+                android:src="@drawable/gdgsur_granada" >
             </ImageView>
         </LinearLayout>
-
+        
         <LinearLayout
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:gravity="center"
             android:orientation="horizontal" >
-
             <ImageView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:adjustViewBounds="true"
-                android:maxHeight="80dp"
-                android:maxWidth="80dp"
+                android:maxHeight="70dp"
+                android:maxWidth="424dp"
                 android:padding="10dip"
                 android:scaleType="centerCrop"
-                android:src="@drawable/bmalogosmall" >
-            </ImageView>
-
-            <ImageView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:adjustViewBounds="true"
-                android:maxHeight="80dp"
-                android:maxWidth="80dp"
-                android:padding="10dip"
-                android:scaleType="centerCrop"
-                android:src="@drawable/fiberpartylogosmall" >
-            </ImageView>
-
-            <ImageView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:adjustViewBounds="true"
-                android:maxHeight="80dp"
-                android:maxWidth="80dp"
-                android:padding="10dip"
-                android:scaleType="centerCrop"
-                android:src="@drawable/bcnjuglogosmall" >
+                android:src="@drawable/gdgsur_murcia" >
             </ImageView>
         </LinearLayout>
+        
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="horizontal" >
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:adjustViewBounds="true"
+                android:maxHeight="70dp"
+                android:maxWidth="424dp"
+                android:padding="10dip"
+                android:scaleType="centerCrop"
+                android:src="@drawable/gdgsur_sevilla" >
+            </ImageView>
+        </LinearLayout>        
+
     </LinearLayout>
 
 </ScrollView>
