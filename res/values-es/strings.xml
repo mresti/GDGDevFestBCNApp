@@ -90,8 +90,8 @@
     </plurals>
 
     <string name="whats_on_thank_you_short">¡Gracias!</string>
-    <string name="whats_on_thank_you_title">Nos vemos el próximo año!</string>
-    <string name="whats_on_thank_you_subtitle">Dev. Fest 2013 ha terminado.</string>
+    <string name="whats_on_thank_you_title">¿Preparado? ¡GDGDevFest Sur 2013!</string>
+    <string name="whats_on_thank_you_subtitle">Tecnología, emprendimiento, hacking, talleres, cacharreo, kitkat...</string>
     <string name="news_will_appear_here"></string>
     <string name="welcome_to_google_i_o">Bienvenido a Google Dev. Fest!</string>
     <string name="permission_write">Modificar los datos de programación del Dev Fest</string>
@@ -117,7 +117,7 @@
     <string name="map_infowindow_text_empty">-</string>
     <!-- EULA, login, and about -->
     <string name="description_choose_account"><![CDATA[ Seleccione una cuenta a continuación. Si se inscribió para participar en el Dev Fest asegúrese de utilizar la misma cuenta. </font]]></string>
-    <string name="description_setup_attendee_mode_header"><![CDATA[ ¿Este año está usted asistiendo al Dev Fest Barcelona en persona?   ]]></string>
+    <string name="description_setup_attendee_mode_header"><![CDATA[ ¿Este año está usted asistiendo al Dev Fest Sur en persona?   ]]></string>
     <string name="description_setup_attendee_mode_body">
 <![CDATA[
           Si no es así, sólo le mostraremos sesiones con streaming en vivo. Se puede cambiar esto en Configuración.]]>
@@ -128,7 +128,7 @@
     <string name="empty_accounts"><![CDATA[ No hay cuentas Google disponibles. Añadir una cuenta para continuar.]]></string>
 
     <string-array name="selection_setup_attendee">
-        <item>Sí estaré presente en Barcelona</item>
+        <item>Sí estaré presente en Córdoba (España)</item>
         <item>No.</item>
     </string-array>
 
