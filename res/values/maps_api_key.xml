@@ -16,7 +16,5 @@
 
 <resources>
     <!-- TODO: Add your Maps API key here. -->
-    <string name="maps_api_key">AIzaSyA1IOltwNUt1XXjKXS6ogVrsHMP2HZVAZc</string>
-<!-- Desarrollo: android:apiKey="0_Pw0cZUoCn1Gs2Gt2iJ1J-3HzUczxd0hbe9Yjg" -->
-<!--  Productivo: AIzaSyA1IOltwNUt1XXjKXS6ogVrsHMP2HZVAZc -->    
+    <string name="maps_api_key">HERE AKI</string> 
 </resources>

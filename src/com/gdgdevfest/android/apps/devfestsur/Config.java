@@ -23,7 +23,7 @@ public class Config {
     // OAuth 2.0 related config
     public static final String APP_NAME = "GoogleIO-Android";
     // TODO: Add your Google API key here.
-    public static final String API_KEY = "YOUR_API_KEY_HERE";
+    public static final String API_KEY = "HERE AKI";
 
     // Conference API-specific config 
     // Update Values Google DevFest -- Define ID for G+
